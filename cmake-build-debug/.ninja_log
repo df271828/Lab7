@@ -1,0 +1,6 @@
+# ninja log v5
+0	3721	6706330193530840	CMakeFiles/untitled3.dir/main.cpp.obj	d6d3fa789c3cb29e
+3728	4000	6706330196269612	untitled3.exe	e1bb29a4bbb33e0c
+7	12204	6706331068918402	CMakeFiles/untitled3.dir/main.cpp.obj	b614db8884ed95a6
+12206	13454	6706331086515944	libuntitled3.dll	95c765ab0cae0f4
+12206	13454	6706331086515944	libuntitled3.dll.a	95c765ab0cae0f4
